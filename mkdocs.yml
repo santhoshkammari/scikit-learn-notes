@@ -1,0 +1,13 @@
+site_name: My Scikit-learn Notes
+site_description: Personal notes and explanations on Scikit-learn
+site_author: Your Name
+
+nav:
+  - Home: index.md
+  - Getting Started: getting_started.md
+  - Basic Concepts: basic_concepts.md
+  - Supervised Learning: supervised_learning.md
+  - Unsupervised Learning: unsupervised_learning.md
+  - Model Evaluation: model_evaluation.md
+
+theme: readthedocs
